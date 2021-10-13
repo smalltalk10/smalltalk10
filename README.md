@@ -1,4 +1,4 @@
-###  Hey there. I'm Niall👋
+###  Hey, I'm Niall👋
 
 - 🔭 I’m currently studying Computing Science at Ulster University
 - 🌱 I’m in Second Year of my Course
