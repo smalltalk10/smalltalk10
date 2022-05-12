@@ -5,5 +5,4 @@
 - 👯 Recieved the Ulster University VANRATH Prize.
 - 💻 Eager to learn about new programming languages and technologies
 - 📫 How to reach me: Morrissey-N1@ulster.ac.uk
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Grade 4 on Guitar 🎸
+- 😄 Fun fact: I am Grade 4 on Guitar 🎸
